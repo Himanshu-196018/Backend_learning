@@ -1,0 +1,13 @@
+/**************  nodeJS/Terminal commands ****************/
+
+ls  		 : check folders and files in current directory;
+cd ..   	 : go back from current directory;
+cd {fileName}    :  go to the existing directory with name 'fileName';
+mkdir {fileName} : create folder in current directory with name 'fileName';
+touch {fileName} : create file in current directory with name 'fileName';
+start {fileName} : open file with deafault app for the file (files only) ;
+npm init         :  initialize the node repo in the current directory; 
+code .  	 :  open current directory in the VScode;
+node {JSfileName}: run the js code through node(Backend).
+npm install 
+     {moduleName}: install modules from node.
